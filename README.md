@@ -1,4 +1,4 @@
-# Cabin Of Despair
+<h1 align="center">Cabin Of Despair</h1>
 
 ## Overview
 
