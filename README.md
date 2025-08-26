@@ -44,12 +44,12 @@
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/https-sharif/cabin-of-despair-game.git
+   git clone https://github.com/https-sharif/cabin-of-despair.git
    ```
 
 2. **Navigate to the Project Directory**:
    ```sh
-   cd cabin-of-despair-game
+   cd cabin-of-despair
    ```
 
 3. **Compile and Run**:
